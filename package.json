@@ -1,0 +1,19 @@
+{
+    "name": "wk3-code-challenge",
+    "version": "1.0.0",
+    "description": "code challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/alinoor12345/week-3-code-challenge.git"
+    },
+    "author": "Ali Omar",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/alinoor12345/week-3-code-challenge//issues"
+    },
+    "homepage": "https://github.com/alinoor12345/week-3-code-challenge#readme"
+  }
